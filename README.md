@@ -15,24 +15,18 @@
 运行过程截图：
 
 1、初始界面。
-
-![image-20211105211450874](C:\Users\12944\AppData\Roaming\Typora\typora-user-images\image-20211105211450874.png)
+![image](https://user-images.githubusercontent.com/77313676/140518670-cd4971ad-d143-467b-840e-c2c7161f6433.png)
 
 2、铸造并查看我的NFT。
-
-![image-20211105211546586](C:\Users\12944\AppData\Roaming\Typora\typora-user-images\image-20211105211546586.png)
+![image](https://user-images.githubusercontent.com/77313676/140518776-94a70e3f-8f70-4de9-b43a-ee5d38712f79.png)
 
 3、发起拍卖并查看拍卖进程。
-
-![image-20211105211637857](C:\Users\12944\AppData\Roaming\Typora\typora-user-images\image-20211105211637857.png)
+![image](https://user-images.githubusercontent.com/77313676/140518796-3976e42d-046f-4f9a-8035-ea0966bf2c68.png)
 
 4、进行竞拍（最高价和最高出价者已发生改变）。
-
-![image-20211105211750144](C:\Users\12944\AppData\Roaming\Typora\typora-user-images\image-20211105211750144.png)
+![image](https://user-images.githubusercontent.com/77313676/140518821-32027b43-8509-4f13-b21b-026ee2265bba.png)
 
 5、最高出价者在时间结束后确认拍卖结束，NFT所属权流转。
-
-![image-20211105211904394](C:\Users\12944\AppData\Roaming\Typora\typora-user-images\image-20211105211904394.png)
-
-![image-20211105211917756](C:\Users\12944\AppData\Roaming\Typora\typora-user-images\image-20211105211917756.png)
+![image](https://user-images.githubusercontent.com/77313676/140518852-558503e7-d22b-4629-a757-ea1d54d586bf.png)
+![image](https://user-images.githubusercontent.com/77313676/140518884-253cd366-2615-439e-9c50-a995b397cd71.png)
 
